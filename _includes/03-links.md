@@ -1,1 +1,1 @@
-[@rsprague81](http://github.com)
+@rsprague81 http://github.com
