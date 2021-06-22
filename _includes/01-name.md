@@ -1,2 +1,2 @@
-# This is a <h1> header
-  Richard Sprague
+# <h1> Richard Sprague 
+## <h2> Loves to learn
